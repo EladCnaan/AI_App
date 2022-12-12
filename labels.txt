@@ -1,0 +1,3 @@
+0 Banana
+1 Clementine
+2 Apple
